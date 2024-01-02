@@ -1,0 +1,8 @@
+com\roberto\pruebatecnica\model\Empleado.class
+com\roberto\pruebatecnica\exceptions\PreexistingEntityException.class
+com\roberto\pruebatecnica\exceptions\IllegalOrphanException.class
+com\roberto\pruebatecnica\exceptions\NonexistentEntityException.class
+com\roberto\pruebatecnica\persistence\EmpleadoJpaController.class
+com\roberto\pruebatecnica\model\Empleado_.class
+com\roberto\pruebatecnica\PruebaTecnica.class
+com\roberto\pruebatecnica\persistence\ControladoraPersistencia.class
